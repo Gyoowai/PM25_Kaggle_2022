@@ -6,9 +6,9 @@ https://www.kaggle.com/c/2110446-data-science-and-data-engineering-2022/
 
 Methods: SARIMAX model with additional web-scraped data including hotspot data and traffic index data
 
-Colab version: [![Open In Colab](https://colab.research.google.com/drive/140m5bBeYo_KbGsOEjU3eIsGQG-nNEiQD?usp=sharing)
+You can also run the notebooks on Colab: [Colab Link](https://colab.research.google.com/drive/140m5bBeYo_KbGsOEjU3eIsGQG-nNEiQD?usp=sharing)
 
-Web Scraping Codes: https://github.com/NATCHANONPAN/ScrapProjDS_PM2.5
+Web Scraping Codes: [Github Page](https://github.com/NATCHANONPAN/ScrapProjDS_PM2.5)
 
 ---
 
