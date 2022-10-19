@@ -1,6 +1,8 @@
 # PM2.5 Prediction Model
 
-Participate in https://www.kaggle.com/c/2110446-data-science-and-data-engineering-2022/
+Participated in https://www.kaggle.com/c/2110446-data-science-and-data-engineering-2022/
+
+Scoring no.1 on https://www.kaggle.com/competitions/2110446-data-science-and-data-engineering-2022redo/leaderboard
 
 2110446 Data Science and Data Engineering with PM2.5 Data
 
